@@ -1,6 +1,6 @@
 # Walmart Sales Dashboard
 
-![Project Image](assets/dashboard.jpg)
+![Project Image](assets/dashboard.png)
 
 ## Overview
 This project provides a web-based dashboard for visualizing Walmart sales data using Streamlit, Plotly, and Pandas. It aims to provide interactive visualizations and insights into sales trends and product performance.
