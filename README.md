@@ -16,8 +16,8 @@ Check out the live demo [here](https://walmart-sales-dashboard.streamlit.app/).
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/its-saran/sales_dashboard.git
-   cd sales_dashboard
+   git clone https://github.com/athulyamanikuttan/walmart_sales_dashboard.git
+   cd walmart_sales_dashboard
    ```
    
 2. Install dependencies from requirements.txt:
